@@ -3,7 +3,7 @@ UI Clone - Github
 </h1>
 
 <p align="center">Responsive Github UI Clone (partial) for study purposes.</p>
-<p align="center">Deployed <a href="https://rocketseat-clone-github.netlify.app/">here</a>.</p>
+<p align="center"> Projeto desenvolvido com ajuda da Rocketseat </p>
 
 <p align="center">
   <a href="https://github.com/Rocketseat/youtube-clone-github/graphs/contributors">
